@@ -9,7 +9,7 @@ background-color: black;
 color: antiquewhite;
 display: flex;
 align-items: center;
-justify-items:space-evenly ;
+justify-content:space-evenly;
 }
 .nav-logo{
     height: 50px;
@@ -89,30 +89,3 @@ justify-items:space-evenly ;
 
 }
 
-.practice{
-    background-color: rgb(215, 202, 202);
-    height: 200px;
-    width: 200px;
-    display: flex;
-    text-align: center;
-    margin-top: 10px;
-    align-items: center;
-    margin-left: 10px;
-}
-.x{
-    display: flex;
-    
-    justify-items:space-evenly;
-}
-.r{
-    border: 2px solid transparent;
-}
-.r:hover{
-    border:1.5px solid white ;
-}
-.der{
-    border:2px solid transparent;
-}
-.der:hover{
-    border: 2px solit blue;
-}
